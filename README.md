@@ -12,9 +12,9 @@
 
 #### Things it can do...
 
-1. QuickSearchSS - This is a feature that is used to search the same thing on multiple platforms at the same time being inside your editor
+1. Quick Search SS - This is a feature that is used to search the same thing on multiple platforms at the same time being inside your editor
 
-2. SearchSS - This is a feature again used to search but on selective platform only:
+2. Search SS - This is a feature again used to search but on selective platform only:
    -> Google:- To Search on google start your search query with a '$'
    -> YouTube:- To Search on youtube start your search query with a '!'
    -> Wikipedia:- To Search on wikipedia start your search query with a '@'
